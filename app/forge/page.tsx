@@ -1,313 +1,272 @@
 'use client';
 
+import { useState, useMemo, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
-import { useForgeStore, buildProfile } from '@/stores/forge-store';
-import { interpretDreamJob } from '@/lib/dream-job-interpreter';
-import { runDecisionEngine, computeGoalFitScore, findBackupCareer } from '@/lib/decision-engine';
-import { runRealityEngine } from '@/lib/reality-engine';
-import { generateRoadmap } from '@/lib/roadmap-generator';
-import { runScholarshipEngine, DEFAULT_EXTRACURRICULAR } from '@/lib/scholarship-engine';
-import { ForgeReport, ExtracurricularInput } from '@/lib/types';
-import Step1Academic from '@/components/wizard/Step1Academic';
-import Step2Constraints from '@/components/wizard/Step2Constraints';
-import Step3Goals from '@/components/wizard/Step3Goals';
-import Step4DreamJob from '@/components/wizard/Step4DreamJob';
-import Step5Sports from '@/components/wizard/Step5Sports';
-import Step6Commitment from '@/components/wizard/Step6Commitment';
-import Step7Review from '@/components/wizard/Step7Review';
+import { useForgeStore } from '@/stores/forge-store';
+import { generateResults } from '@/lib/engines';
+import StepProfile from '@/components/wizard/StepProfile';
+import StepAcademics from '@/components/wizard/StepAcademics';
+import StepGoals from '@/components/wizard/StepGoals';
+import StepConstraints from '@/components/wizard/StepConstraints';
+import StepFinances from '@/components/wizard/StepFinances';
+import StepDream from '@/components/wizard/StepDream';
 
-const STEPS = [
-  { label: 'Academic', icon: '📚' },
-  { label: 'Constraints', icon: '💰' },
-  { label: 'Goals', icon: '🎯' },
-  { label: 'Dream Job', icon: '💡' },
-  { label: 'Sports', icon: '🏆' },
-  { label: 'Commitment', icon: '⚡' },
-  { label: 'Review', icon: '🔍' },
+const STEP_LABELS = ["PROFILE", "ACADEMICS", "GOALS", "CONSTRAINTS", "FINANCES", "DREAM"];
+const FORGE_MESSAGES = [
+  "Interpreting your dream job...",
+  "Running probability models...",
+  "Matching scholarships...",
+  "Detecting effort mismatches...",
+  "Building your Skill Tree...",
+  "Forging your paths..."
 ];
 
 export default function ForgePage() {
   const router = useRouter();
-  const store = useForgeStore();
-  const { currentStep, nextStep, prevStep, setReport, setIsAnalyzing, isAnalyzing } = store;
+  const { profile, setResults } = useForgeStore();
+  const [step, setStep] = useState(0);
+  const [isForging, setIsForging] = useState(false);
+  const [forgeMessage, setForgeMessage] = useState(FORGE_MESSAGES[0]);
+  const [forgeProgress, setForgeProgress] = useState(0);
+  const [showError, setShowError] = useState(false);
 
-  const handleAnalyze = async () => {
-    setIsAnalyzing(true);
-
-    // Simulate processing delay for UX
-    await new Promise((resolve) => setTimeout(resolve, 2200));
-
-    const profile = buildProfile(store);
-
-    // Interpret dream job
-    const interpreted = interpretDreamJob(profile.goals.dream_job);
-    const primaryCareer = interpreted.matched_career;
-
-    if (!primaryCareer) {
-      setIsAnalyzing(false);
-      alert('Could not match your dream job. Please try a different description.');
-      return;
+  const validationError = useMemo(() => {
+    switch (step) {
+      case 0: 
+        if (profile.name.length < 2) return "Please enter your full name.";
+        if (profile.class_level === '') return "Please select your class.";
+        if (profile.stream === '') return "Please select your stream.";
+        if (profile.city.length < 1) return "Please enter your city.";
+        return null;
+      case 1: 
+        if (!profile.marks || profile.marks <= 0) return "Please enter your marks.";
+        if (profile.board === '') return "Please select your board.";
+        return null;
+      case 2: 
+        if (profile.dream_job.length < 2) return "Please enter a dream job.";
+        if ((profile.priorities?.length || 0) < 1) return "Please select at least one priority.";
+        return null;
+      case 3: 
+        if (profile.abroad_open === 'maybe') return "Please decide if you are open to studying abroad.";
+        return null;
+      case 4: 
+        if (profile.budget === '') return "Please select a budget range.";
+        return null;
+      case 5: 
+        if (profile.deep_dream.length < 20) return "Please describe your deep dream (min 20 characters).";
+        return null;
+      default: return null;
     }
+  }, [step, profile]);
 
-    // Run all engines
-    const paths = runDecisionEngine(profile, primaryCareer);
-    const goalFitScore = computeGoalFitScore(profile, primaryCareer);
-    const backupCareer = findBackupCareer(profile, primaryCareer);
-    const realityWarnings = runRealityEngine(profile, primaryCareer);
-    const roadmap = generateRoadmap(profile, primaryCareer);
+  const handleForge = useCallback(() => {
+    setIsForging(true);
+    setForgeProgress(0);
+    setForgeMessage(FORGE_MESSAGES[0]);
 
-    // Build extracurricular input for scholarship engine
-    const extras: ExtracurricularInput = {
-      achievements: (store.extracurricular.achievements ?? []) as string[],
-      olympiads: (store.extracurricular.olympiads ?? []) as string[],
-      leadership_roles: (store.extracurricular.leadership_roles ?? []) as string[],
-      financial_need: store.extracurricular.financial_need ?? 'moderate',
-      has_published_research: store.extracurricular.has_published_research ?? false,
-      community_service: store.extracurricular.community_service ?? false,
-      sports_achievements: (store.extracurricular.sports_achievements ?? []) as string[],
-    };
+    // Animate forge messages
+    FORGE_MESSAGES.forEach((msg, i) => {
+      setTimeout(() => {
+        setForgeMessage(msg);
+        setForgeProgress(((i + 1) / FORGE_MESSAGES.length) * 100);
+      }, i * 420);
+    });
 
-    // Run scholarship intelligence engine
-    const scholarshipReport = runScholarshipEngine(profile, primaryCareer, extras);
+    // After animation, generate results and navigate
+    setTimeout(() => {
+      const results = generateResults(profile);
+      setResults(results);
+      router.push('/forge/results');
+    }, 2500);
+  }, [profile, setResults, router]);
 
-    const report: ForgeReport = {
-      student: profile,
-      primary_career: primaryCareer,
-      backup_career: backupCareer,
-      paths,
-      goal_fit_score: goalFitScore,
-      reality_warnings: realityWarnings,
-      roadmap,
-      scholarship_report: scholarshipReport,
-      generated_at: new Date().toISOString(),
-    };
-
-    setReport(report);
-    setIsAnalyzing(false);
-    router.push('/forge/results');
+  const handleNext = () => {
+    if (validationError) {
+      setShowError(true);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    } else {
+      setShowError(false);
+      if (step < 5) setStep(step + 1);
+      else handleForge();
+    }
   };
 
+  const handleBack = () => {
+    setShowError(false);
+    if (step > 0) setStep(step - 1);
+  };
+
+  if (isForging) {
+    return (
+      <div className="forge-screen">
+        <div className="forge-animation">
+          <div className="forge-icon" style={{ display: 'flex', justifyContent: 'center', marginBottom: 16 }}>
+            <img src="/icons/PathForgeAI.ico" alt="PathForge AI" style={{ width: 64, height: 64, objectFit: 'contain' }} />
+          </div>
+          <p className="forge-status">{forgeMessage}</p>
+          <div className="forge-bar-track">
+            <div className="forge-bar-fill" style={{ width: `${forgeProgress}%` }} />
+          </div>
+        </div>
+
+        <style jsx>{`
+          .forge-screen {
+            min-height: 100vh;
+            background: var(--bg);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+          }
+          .forge-animation {
+            text-align: center;
+            max-width: 400px;
+          }
+          .forge-icon {
+            font-size: 80px;
+            animation: pulse 1s ease-in-out infinite alternate;
+          }
+          @keyframes pulse {
+            from { transform: scale(1); filter: brightness(1); }
+            to { transform: scale(1.15); filter: brightness(1.3); }
+          }
+          .forge-status {
+            color: var(--ember);
+            font-family: var(--font-mono);
+            font-size: 14px;
+            margin: 24px 0;
+            min-height: 20px;
+          }
+          .forge-bar-track {
+            height: 4px;
+            background: var(--border);
+            border-radius: 2px;
+            overflow: hidden;
+            width: 300px;
+            margin: 0 auto;
+          }
+          .forge-bar-fill {
+            height: 100%;
+            background: var(--ember);
+            transition: width 400ms ease;
+          }
+        `}</style>
+      </div>
+    );
+  }
+
+  const steps = [<StepProfile key={0} />, <StepAcademics key={1} />, <StepGoals key={2} />, <StepConstraints key={3} />, <StepFinances key={4} />, <StepDream key={5} />];
+
   return (
-    <div
-      style={{
-        minHeight: '100vh',
-        background: 'var(--bg-base)',
-        display: 'flex',
-        flexDirection: 'column',
-      }}
-    >
-      {/* Background */}
-      <div
-        style={{
-          position: 'fixed',
-          inset: 0,
-          backgroundImage: `radial-gradient(ellipse 80% 50% at 50% -20%, rgba(108,99,255,0.12) 0%, transparent 60%)`,
-          pointerEvents: 'none',
-          zIndex: 0,
-        }}
-      />
-
-      {/* Analyzing overlay */}
-      {isAnalyzing && (
-        <div
-          style={{
-            position: 'fixed',
-            inset: 0,
-            zIndex: 1000,
-            background: 'rgba(5,8,16,0.95)',
-            display: 'flex',
-            flexDirection: 'column',
-            alignItems: 'center',
-            justifyContent: 'center',
-            gap: 24,
-          }}
-        >
-          <div
-            style={{
-              width: 80,
-              height: 80,
-              borderRadius: '50%',
-              border: '3px solid transparent',
-              borderTopColor: 'var(--primary)',
-              borderRightColor: 'var(--accent-cyan)',
-              animation: 'spin-slow 1s linear infinite',
-            }}
-          />
-          <div style={{ textAlign: 'center' }}>
-            <div
-              style={{
-                fontFamily: "'Space Grotesk', sans-serif",
-                fontWeight: 700,
-                fontSize: 24,
-                marginBottom: 8,
-              }}
-            >
-              Forging Your Path...
-            </div>
-            <div style={{ color: 'var(--text-secondary)', fontSize: 14 }}>
-              Running decision engine · Scoring probability models · Generating roadmap
-            </div>
-          </div>
-          <div
-            style={{
-              display: 'flex',
-              gap: 8,
-              marginTop: 8,
-            }}
-          >
-            {['Analyzing profile', 'Computing scores', 'Generating paths', 'Building roadmap', 'Matching scholarships'].map(
-              (task, i) => (
-                <div
-                  key={task}
-                  style={{
-                    padding: '6px 14px',
-                    borderRadius: 40,
-                    background: 'rgba(108,99,255,0.1)',
-                    border: '1px solid rgba(108,99,255,0.2)',
-                    fontSize: 11,
-                    color: 'var(--primary-light)',
-                    animation: `fadeInUp 0.4s ease ${i * 0.3}s both`,
-                  }}
-                >
-                  ✦ {task}
-                </div>
-              )
-            )}
-          </div>
+    <div className="wizard-page">
+      {/* Progress bar */}
+      <div className="progress-bar">
+        <div className="no-print" style={{ padding: '0 16px', display: 'flex', alignItems: 'center', borderRight: '1px solid var(--border)' }}>
+          <img src="/icons/PathForgeAI.ico" alt="PathForge AI" style={{ width: 24, height: 24, objectFit: 'contain' }} />
         </div>
-      )}
-
-      {/* Top Bar */}
-      <header
-        style={{
-          position: 'sticky',
-          top: 0,
-          zIndex: 50,
-          background: 'rgba(5,8,16,0.9)',
-          borderBottom: '1px solid var(--border)',
-          backdropFilter: 'blur(20px)',
-          padding: '0 32px',
-        }}
-      >
-        <div
-          style={{
-            maxWidth: 900,
-            margin: '0 auto',
-            height: 64,
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'space-between',
-            gap: 16,
-          }}
-        >
-          {/* Logo */}
-          <a
-            href="/"
-            style={{
-              display: 'flex',
-              alignItems: 'center',
-              gap: 8,
-              textDecoration: 'none',
-              color: 'inherit',
-              flexShrink: 0,
-            }}
-          >
-            <span style={{ fontSize: 20 }}>⚡</span>
-            <span
-              style={{
-                fontFamily: "'Space Grotesk', sans-serif",
-                fontWeight: 700,
-                fontSize: 16,
-              }}
-            >
-              PathForge AI
-            </span>
-          </a>
-
-          {/* Step progress pills */}
-          <div style={{ display: 'flex', gap: 4, overflow: 'hidden' }}>
-            {STEPS.map((step, i) => (
-              <div
-                key={step.label}
-                style={{
-                  display: 'flex',
-                  alignItems: 'center',
-                  gap: 4,
-                  padding: '4px 10px',
-                  borderRadius: 40,
-                  fontSize: 11,
-                  fontWeight: 600,
-                  transition: 'all 0.3s',
-                  background:
-                    i === currentStep
-                      ? 'rgba(108,99,255,0.2)'
-                      : i < currentStep
-                      ? 'rgba(34,197,94,0.1)'
-                      : 'transparent',
-                  color:
-                    i === currentStep
-                      ? 'var(--primary-light)'
-                      : i < currentStep
-                      ? 'var(--accent-green)'
-                      : 'var(--text-muted)',
-                  border:
-                    i === currentStep
-                      ? '1px solid rgba(108,99,255,0.4)'
-                      : i < currentStep
-                      ? '1px solid rgba(34,197,94,0.25)'
-                      : '1px solid transparent',
-                  whiteSpace: 'nowrap',
-                }}
-              >
-                {i < currentStep ? '✓' : step.icon} {step.label}
-              </div>
-            ))}
+        {STEP_LABELS.map((label, i) => (
+          <div key={label} className={`progress-segment ${i < step ? 'past' : i === step ? 'current' : 'future'}`}>
+            <div className="segment-fill" />
+            <span className="segment-label">{label}</span>
           </div>
+        ))}
+      </div>
 
-          {/* Step counter */}
-          <div
-            style={{ color: 'var(--text-muted)', fontSize: 13, flexShrink: 0 }}
-          >
-            {currentStep + 1} / {STEPS.length}
+      {/* Step content */}
+      <div className="wizard-body">
+        {steps[step]}
+      </div>
+
+      {/* Bottom bar */}
+      <div className="wizard-footer" style={{ flexDirection: 'column', alignItems: 'stretch' }}>
+        {showError && validationError && (
+          <div style={{ color: 'var(--danger)', fontSize: 13, marginBottom: 12, textAlign: 'right' }}>
+            ⚠️ {validationError}
           </div>
+        )}
+        <div style={{ display: 'flex', justifyContent: 'space-between', width: '100%' }}>
+          <button className="btn-ghost" onClick={handleBack} disabled={step === 0} style={{ opacity: step === 0 ? 0.3 : 1 }}>
+            ← Back
+          </button>
+          <button className="btn-primary" onClick={handleNext}>
+            {step === 5 ? '⚡ FORGE MY PATH →' : 'Next →'}
+          </button>
         </div>
+      </div>
 
-        {/* Progress bar */}
-        <div className="progress-bar-track" style={{ height: 2 }}>
-          <div
-            className="progress-bar-fill"
-            style={{ width: `${((currentStep + 1) / STEPS.length) * 100}%` }}
-          />
-        </div>
-      </header>
+      <style jsx>{`
+        .wizard-page {
+          min-height: 100vh;
+          background: var(--bg);
+          display: flex;
+          flex-direction: column;
+        }
 
-      {/* Main content */}
-      <main
-        style={{
-          position: 'relative',
-          zIndex: 1,
-          flex: 1,
-          display: 'flex',
-          alignItems: 'flex-start',
-          justifyContent: 'center',
-          padding: '48px 24px 80px',
-        }}
-      >
-        <div style={{ width: '100%', maxWidth: 720 }}>
-          {currentStep === 0 && <Step1Academic onNext={nextStep} />}
-          {currentStep === 1 && <Step2Constraints onNext={nextStep} onBack={prevStep} />}
-          {currentStep === 2 && <Step3Goals onNext={nextStep} onBack={prevStep} />}
-          {currentStep === 3 && <Step4DreamJob onNext={nextStep} onBack={prevStep} />}
-          {currentStep === 4 && <Step5Sports onNext={nextStep} onBack={prevStep} />}
-          {currentStep === 5 && <Step6Commitment onNext={nextStep} onBack={prevStep} />}
-          {currentStep === 6 && (
-            <Step7Review
-              onBack={prevStep}
-              onAnalyze={handleAnalyze}
-            />
-          )}
-        </div>
-      </main>
+        .progress-bar {
+          position: sticky;
+          top: 0;
+          z-index: 100;
+          display: flex;
+          background: var(--surface);
+          border-bottom: 1px solid var(--border);
+        }
+
+        .progress-segment {
+          flex: 1;
+          padding: 12px 0;
+          position: relative;
+          text-align: center;
+        }
+
+        .segment-fill {
+          position: absolute;
+          bottom: 0;
+          left: 0;
+          right: 0;
+          height: 3px;
+          background: var(--border);
+          transition: background 300ms;
+        }
+
+        .progress-segment.past .segment-fill { background: var(--ember-dim); }
+        .progress-segment.current .segment-fill { background: var(--ember); }
+
+        .segment-label {
+          font-family: var(--font-mono);
+          font-size: 10px;
+          letter-spacing: 0.1em;
+          color: var(--iron);
+          transition: color 300ms;
+        }
+
+        .progress-segment.current .segment-label { color: var(--ember); }
+        .progress-segment.past .segment-label { color: var(--ember-dim); }
+
+        .wizard-body {
+          flex: 1;
+          display: flex;
+          padding: 60px 24px;
+          max-width: 800px;
+          margin: 0 auto;
+          width: 100%;
+        }
+
+        .wizard-footer {
+          position: sticky;
+          bottom: 0;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          padding: 16px 32px;
+          background: var(--surface);
+          border-top: 1px solid var(--border);
+        }
+
+        @media (max-width: 768px) {
+          .segment-label { font-size: 8px; }
+          .wizard-body { padding: 32px 16px; }
+          .wizard-footer { padding: 12px 16px; }
+        }
+      `}</style>
     </div>
   );
 }

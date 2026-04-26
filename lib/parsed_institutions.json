@@ -1,0 +1,5372 @@
+[
+  {
+    "name": "IIT Bombay (CS)",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 200000,
+    "cutoff_description": "JEE Adv: Top 100",
+    "placement_median": "25-40 LPA",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "IIT Delhi (CS)",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 200000,
+    "cutoff_description": "JEE Adv: Top 150",
+    "placement_median": "22-35 LPA",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "IIT Madras (CS)",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 200000,
+    "cutoff_description": "JEE Adv: Top 200",
+    "placement_median": "20-30 LPA",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "IIT Kanpur (CS)",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 200000,
+    "cutoff_description": "JEE Adv: Top 300",
+    "placement_median": "20-28 LPA",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "IIT Kharagpur (CS)",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 180000,
+    "cutoff_description": "JEE Adv: Top 500",
+    "placement_median": "18-25 LPA",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "IIT Hyderabad (CS)",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 200000,
+    "cutoff_description": "JEE Adv: Top 1000",
+    "placement_median": "16-22 LPA",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "IIT Roorkee (CS)",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 200000,
+    "cutoff_description": "JEE Adv: Top 800",
+    "placement_median": "16-22 LPA",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "IIIT Hyderabad (CS)",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 350000,
+    "cutoff_description": "UGEE/JEE",
+    "placement_median": "18-28 LPA",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "IIIT Delhi (CS)",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 350000,
+    "cutoff_description": "JEE Mains",
+    "placement_median": "15-22 LPA",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "BITS Pilani (CS)",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 550000,
+    "cutoff_description": "BITSAT: 380+",
+    "placement_median": "18-25 LPA",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "NIT Trichy (CS)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 150000,
+    "cutoff_description": "JEE Mains 98%ile",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "NIT Warangal (CS)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 150000,
+    "cutoff_description": "JEE Mains 97%ile",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "NIT Surathkal (CS)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 150000,
+    "cutoff_description": "JEE Mains 96%ile",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "NIT Calicut (CS)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 150000,
+    "cutoff_description": "JEE Mains 95%ile",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "DTU Delhi (CS)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 180000,
+    "cutoff_description": "JEE Mains + state",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "NSUT Delhi (CS)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 150000,
+    "cutoff_description": "JEE Mains + state",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "VIT Vellore (CS)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 250000,
+    "cutoff_description": "VITEEE",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "Manipal (CS)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 320000,
+    "cutoff_description": "MET",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "SRM Chennai (CS)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 250000,
+    "cutoff_description": "SRMJEE",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "Amity Noida (CS)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 280000,
+    "cutoff_description": "Own entrance",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "PES University Bangalore",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 300000,
+    "cutoff_description": "PESSAT",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "RV College Bangalore",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 80000,
+    "cutoff_description": "KCET",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "Christ University Bangalore",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 180000,
+    "cutoff_description": "Own",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "Symbiosis Pune (SCIT)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 260000,
+    "cutoff_description": "SET",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "State engineering colleges (via state CET)",
+    "tier": 3,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 0,
+    "cutoff_description": "50,000-1,00,000/yr. Best budget play.",
+    "placement_median": "Variable",
+    "type": "government",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "Government polytechnic + lateral entry",
+    "tier": 3,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 0,
+    "cutoff_description": "3yr diploma → 2nd year engg. Saves 1 year + massive cost cut",
+    "placement_median": "Variable",
+    "type": "government",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "IGNOU B.Tech (lateral)",
+    "tier": 3,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 0,
+    "cutoff_description": "Distance + recognition",
+    "placement_median": "Variable",
+    "type": "government",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "IIT Madras BSc Online",
+    "tier": 3,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 0,
+    "cutoff_description": "12,000-15,000/semester. Game changer for Tier-3 city students",
+    "placement_median": "Variable",
+    "type": "government",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "Technical University Munich (TUM)",
+    "tier": 2,
+    "city": "Various",
+    "state": "Germany",
+    "fees_per_year": 80000,
+    "cutoff_description": "Near zero tuition. English programs. QS Top 50",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "RWTH Aachen",
+    "tier": 2,
+    "city": "Various",
+    "state": "Germany",
+    "fees_per_year": 80000,
+    "cutoff_description": "Best for engineering. Industry links",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "TU Berlin",
+    "tier": 2,
+    "city": "Various",
+    "state": "Germany",
+    "fees_per_year": 80000,
+    "cutoff_description": "Strong AI programs",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "TU Delft",
+    "tier": 2,
+    "city": "Various",
+    "state": "Netherlands",
+    "fees_per_year": 400000,
+    "cutoff_description": "Top 20 globally for engineering",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "University of Tartu",
+    "tier": 2,
+    "city": "Various",
+    "state": "Estonia",
+    "fees_per_year": 250000,
+    "cutoff_description": "EU degree. Digital nomad ecosystem",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "University of Warsaw",
+    "tier": 2,
+    "city": "Various",
+    "state": "Poland",
+    "fees_per_year": 150000,
+    "cutoff_description": "EU degree. Low cost",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "Charles University Prague",
+    "tier": 2,
+    "city": "Various",
+    "state": "Czech Republic",
+    "fees_per_year": 150000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "Brno University of Technology",
+    "tier": 2,
+    "city": "Various",
+    "state": "Czech Republic",
+    "fees_per_year": 80000,
+    "cutoff_description": "Free if in Czech language",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "Tallinn University of Technology",
+    "tier": 2,
+    "city": "Various",
+    "state": "Estonia",
+    "fees_per_year": 250000,
+    "cutoff_description": "e-Estonia. Digital governance focus",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "UTP Malaysia",
+    "tier": 2,
+    "city": "Various",
+    "state": "Malaysia",
+    "fees_per_year": 150000,
+    "cutoff_description": "PETRONAS-backed. Oil & gas + CS",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "UTM Malaysia",
+    "tier": 2,
+    "city": "Various",
+    "state": "Malaysia",
+    "fees_per_year": 150000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "NUS (scholarship only)",
+    "tier": 2,
+    "city": "Various",
+    "state": "Singapore",
+    "fees_per_year": 80000000000,
+    "cutoff_description": "Highly competitive. Apply ASEAN scholarship",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "NTU Singapore",
+    "tier": 2,
+    "city": "Various",
+    "state": "Singapore",
+    "fees_per_year": 800000,
+    "cutoff_description": "Similar to NUS",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "University of Edinburgh",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 0,
+    "cutoff_description": "QS Top 20. 3yr undergrad",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "University of Manchester",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 0,
+    "cutoff_description": "Strong industry placement year",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "University College Dublin",
+    "tier": 2,
+    "city": "Various",
+    "state": "Ireland",
+    "fees_per_year": 0,
+    "cutoff_description": "Post-study work visa 2yr. Tech hub",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "Trinity College Dublin",
+    "tier": 2,
+    "city": "Various",
+    "state": "Ireland",
+    "fees_per_year": 0,
+    "cutoff_description": "Strong CS. Dublin = EU's Silicon Valley",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "Maastricht University",
+    "tier": 2,
+    "city": "Various",
+    "state": "Netherlands",
+    "fees_per_year": 0,
+    "cutoff_description": "Problem-based learning. International",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "University of Amsterdam",
+    "tier": 2,
+    "city": "Various",
+    "state": "Netherlands",
+    "fees_per_year": 0,
+    "cutoff_description": "English-taught. Strong fintech angle",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "KU Leuven",
+    "tier": 2,
+    "city": "Various",
+    "state": "Belgium",
+    "fees_per_year": 0,
+    "cutoff_description": "Top EU research university",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "Aalto University",
+    "tier": 2,
+    "city": "Various",
+    "state": "Finland",
+    "fees_per_year": 0,
+    "cutoff_description": "Design + Tech crossover. Nokia legacy",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "Chalmers University",
+    "tier": 2,
+    "city": "Various",
+    "state": "Sweden",
+    "fees_per_year": 0,
+    "cutoff_description": "Strong engineering. Volvo/Ericsson ties",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "University of Waterloo (co-op)",
+    "tier": 2,
+    "city": "Various",
+    "state": "Canada",
+    "fees_per_year": 0,
+    "cutoff_description": "#1 for CS in Canada. Co-op = paid internships",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "Simon Fraser University",
+    "tier": 2,
+    "city": "Various",
+    "state": "Canada",
+    "fees_per_year": 0,
+    "cutoff_description": "Strong CS. Vancouver tech scene",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "Deakin University",
+    "tier": 2,
+    "city": "Various",
+    "state": "Australia",
+    "fees_per_year": 0,
+    "cutoff_description": "Strong industry placement",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "RMIT Melbourne",
+    "tier": 2,
+    "city": "Various",
+    "state": "Australia",
+    "fees_per_year": 0,
+    "cutoff_description": "Design + Tech. Strong for UX/AI",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "Macquarie University",
+    "tier": 2,
+    "city": "Various",
+    "state": "Australia",
+    "fees_per_year": 0,
+    "cutoff_description": "PR pathway. 2yr PSW",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "MIT",
+    "tier": 1,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "Stanford",
+    "tier": 1,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "Carnegie Mellon (CS)",
+    "tier": 1,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "UC Berkeley",
+    "tier": 1,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "Cornell",
+    "tier": 1,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "ETH Zurich",
+    "tier": 1,
+    "city": "Various",
+    "state": "Switzerland",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "Imperial College London",
+    "tier": 1,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "Oxford / Cambridge",
+    "tier": 1,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "University of Toronto",
+    "tier": 1,
+    "city": "Various",
+    "state": "Canada",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "University of British Columbia",
+    "tier": 1,
+    "city": "Various",
+    "state": "Canada",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "software_engineer",
+      "data_scientist"
+    ]
+  },
+  {
+    "name": "AIIMS Delhi",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 1628,
+    "cutoff_description": "NEET: 99.9%ile",
+    "placement_median": "Variable",
+    "type": "government",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "AIIMS (13 new campuses)",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 1628,
+    "cutoff_description": "NEET: 99.5%ile",
+    "placement_median": "Variable",
+    "type": "government",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "JIPMER Puducherry",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 1390,
+    "cutoff_description": "NEET",
+    "placement_median": "Variable",
+    "type": "government",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Maulana Azad Medical College",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 12000,
+    "cutoff_description": "NEET + state",
+    "placement_median": "Variable",
+    "type": "government",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Grant Medical College Mumbai",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 15000,
+    "cutoff_description": "NEET + MH-CET",
+    "placement_median": "Variable",
+    "type": "government",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Madras Medical College",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 10000,
+    "cutoff_description": "NEET + TN merit",
+    "placement_median": "Variable",
+    "type": "government",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "All State Government Medical Colleges",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 25000,
+    "cutoff_description": "NEET + state",
+    "placement_median": "Variable",
+    "type": "government",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Kasturba Medical College Manipal",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 1200000,
+    "cutoff_description": "Strong for US USMLE prep",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "JSS Medical College Mysore",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 1000000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Amrita School of Medicine",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 1100000,
+    "cutoff_description": "Kochi campus. Good hospital exposure",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Sri Ramachandra Chennai",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 1000000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Saveetha Medical College",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 1100000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "St. John's Medical College Bangalore",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 800000,
+    "cutoff_description": "Strong for PG",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "KIMS Hubli",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 800000,
+    "cutoff_description": "Karnataka private",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "MGM Medical College",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 900000,
+    "cutoff_description": "Maharashtra private",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Kyrgyz State Medical Academy",
+    "tier": 2,
+    "city": "Various",
+    "state": "Kyrgyzstan",
+    "fees_per_year": 1500000,
+    "cutoff_description": "WHO/NMC recognized",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Osh State University Medical Faculty",
+    "tier": 2,
+    "city": "Various",
+    "state": "Kyrgyzstan",
+    "fees_per_year": 1500000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Bashkir State Medical University",
+    "tier": 2,
+    "city": "Various",
+    "state": "Russia",
+    "fees_per_year": 1800000,
+    "cutoff_description": "NMC recognized",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Kazan State Medical University",
+    "tier": 2,
+    "city": "Various",
+    "state": "Russia",
+    "fees_per_year": 2000000,
+    "cutoff_description": "Oldest Russian med school",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Kursk State Medical University",
+    "tier": 2,
+    "city": "Various",
+    "state": "Russia",
+    "fees_per_year": 1800000,
+    "cutoff_description": "Large Indian community",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Crimea Federal University",
+    "tier": 2,
+    "city": "Various",
+    "state": "Russia",
+    "fees_per_year": 1500000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "University of Debrecen (Medicine)",
+    "tier": 2,
+    "city": "Various",
+    "state": "Hungary",
+    "fees_per_year": 3500000,
+    "cutoff_description": "EU degree. Very valuable",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Semmelweis University",
+    "tier": 2,
+    "city": "Various",
+    "state": "Hungary",
+    "fees_per_year": 4000000,
+    "cutoff_description": "Top EU medical. Budapest",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Charles University (Medicine)",
+    "tier": 2,
+    "city": "Various",
+    "state": "Czech Republic",
+    "fees_per_year": 3000000,
+    "cutoff_description": "EU accreditation",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Poznan University of Medical Sciences",
+    "tier": 2,
+    "city": "Various",
+    "state": "Poland",
+    "fees_per_year": 3000000,
+    "cutoff_description": "EU degree",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Medical University of Gdansk",
+    "tier": 2,
+    "city": "Various",
+    "state": "Poland",
+    "fees_per_year": 2800000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "University of Latvia (Medicine)",
+    "tier": 2,
+    "city": "Various",
+    "state": "Latvia",
+    "fees_per_year": 2500000,
+    "cutoff_description": "EU. English medium",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Georgian National University",
+    "tier": 2,
+    "city": "Various",
+    "state": "Georgia",
+    "fees_per_year": 1800000,
+    "cutoff_description": "NMC recognized",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Tbilisi State Medical University",
+    "tier": 2,
+    "city": "Various",
+    "state": "Georgia",
+    "fees_per_year": 1800000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "University of Plovdiv",
+    "tier": 2,
+    "city": "Various",
+    "state": "Bulgaria",
+    "fees_per_year": 2000000,
+    "cutoff_description": "EU. English medium",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Medical University Sofia",
+    "tier": 2,
+    "city": "Various",
+    "state": "Bulgaria",
+    "fees_per_year": 2200000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Carol Davila University",
+    "tier": 2,
+    "city": "Various",
+    "state": "Romania",
+    "fees_per_year": 2000000,
+    "cutoff_description": "EU degree",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "China Medical University",
+    "tier": 2,
+    "city": "Various",
+    "state": "China",
+    "fees_per_year": 1500000,
+    "cutoff_description": "Dalian campus. Large Indian batch",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Jilin University Medical School",
+    "tier": 2,
+    "city": "Various",
+    "state": "China",
+    "fees_per_year": 1500000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "University of Philippines Manila",
+    "tier": 2,
+    "city": "Various",
+    "state": "Philippines",
+    "fees_per_year": 2000000,
+    "cutoff_description": "US-pattern. Good USMLE prep",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Our Lady of Fatima University",
+    "tier": 2,
+    "city": "Various",
+    "state": "Philippines",
+    "fees_per_year": 1800000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Harvard Medical School",
+    "tier": 1,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 0,
+    "cutoff_description": "USMLE + research publications required",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Johns Hopkins",
+    "tier": 1,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 0,
+    "cutoff_description": "Best for research + clinical",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Mayo Clinic School of Medicine",
+    "tier": 1,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 0,
+    "cutoff_description": "Renowned for clinical",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "University of Toronto Medicine",
+    "tier": 1,
+    "city": "Various",
+    "state": "Canada",
+    "fees_per_year": 0,
+    "cutoff_description": "MCCQE route for Indians",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Imperial College London",
+    "tier": 1,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 0,
+    "cutoff_description": "PLAB route. 1-2 years to register",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Royal College of Surgeons Ireland",
+    "tier": 1,
+    "city": "Various",
+    "state": "Ireland",
+    "fees_per_year": 0,
+    "cutoff_description": "Irish registration + EU pathway",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Karolinska Institute",
+    "tier": 1,
+    "city": "Various",
+    "state": "Sweden",
+    "fees_per_year": 0,
+    "cutoff_description": "Strong for research after MBBS",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "University of Melbourne",
+    "tier": 1,
+    "city": "Various",
+    "state": "Australia",
+    "fees_per_year": 0,
+    "cutoff_description": "AMC exam route. Strong PR prospects",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B1. MBBS"
+    ]
+  },
+  {
+    "name": "Maulana Azad Dental College Delhi",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 20000,
+    "cutoff_description": "Govt. Best in India",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B2. Dentistry (BDS)"
+    ]
+  },
+  {
+    "name": "Manipal College of Dental Sciences",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 600000,
+    "cutoff_description": "Strong for MDS + abroad",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B2. Dentistry (BDS)"
+    ]
+  },
+  {
+    "name": "SRM Dental College",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 550000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B2. Dentistry (BDS)"
+    ]
+  },
+  {
+    "name": "University of Debrecen (Dentistry)",
+    "tier": 1,
+    "city": "Various",
+    "state": "Hungary",
+    "fees_per_year": 3000000,
+    "cutoff_description": "EU license. Very portable",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B2. Dentistry (BDS)"
+    ]
+  },
+  {
+    "name": "Riga Stradins University",
+    "tier": 1,
+    "city": "Various",
+    "state": "Latvia",
+    "fees_per_year": 2000000,
+    "cutoff_description": "EU dental degree",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B2. Dentistry (BDS)"
+    ]
+  },
+  {
+    "name": "Poznan Dental",
+    "tier": 1,
+    "city": "Various",
+    "state": "Poland",
+    "fees_per_year": 2200000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B2. Dentistry (BDS)"
+    ]
+  },
+  {
+    "name": "Jamia Hamdard Delhi",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 0,
+    "cutoff_description": "Best pharmacy in India",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B3. Pharmacy / Pharmaceutical Sciences"
+    ]
+  },
+  {
+    "name": "ICT Mumbai (formerly UDCT)",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 0,
+    "cutoff_description": "Top for pharma tech",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B3. Pharmacy / Pharmaceutical Sciences"
+    ]
+  },
+  {
+    "name": "JSS College of Pharmacy",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 0,
+    "cutoff_description": "Strong PG + research",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B3. Pharmacy / Pharmaceutical Sciences"
+    ]
+  },
+  {
+    "name": "Manipal College of Pharmaceutical Sciences",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B3. Pharmacy / Pharmaceutical Sciences"
+    ]
+  },
+  {
+    "name": "NIPER (6 campuses)",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 0,
+    "cutoff_description": "Govt. PG focused. Excellent value",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B3. Pharmacy / Pharmaceutical Sciences"
+    ]
+  },
+  {
+    "name": "University of Strathclyde",
+    "tier": 1,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 0,
+    "cutoff_description": "Strong pharma industry ties",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B3. Pharmacy / Pharmaceutical Sciences"
+    ]
+  },
+  {
+    "name": "University of Groningen",
+    "tier": 1,
+    "city": "Various",
+    "state": "Netherlands",
+    "fees_per_year": 0,
+    "cutoff_description": "Strong pharma research",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B3. Pharmacy / Pharmaceutical Sciences"
+    ]
+  },
+  {
+    "name": "Uppsala University",
+    "tier": 1,
+    "city": "Various",
+    "state": "Sweden",
+    "fees_per_year": 0,
+    "cutoff_description": "AstraZeneca proximity",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B3. Pharmacy / Pharmaceutical Sciences"
+    ]
+  },
+  {
+    "name": "Christian Medical College Vellore",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 0,
+    "cutoff_description": "India's best. Govt aided",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B4. Physiotherapy / Occupational Therapy"
+    ]
+  },
+  {
+    "name": "NIMHANS Bangalore",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 0,
+    "cutoff_description": "Neuro physio specialization",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B4. Physiotherapy / Occupational Therapy"
+    ]
+  },
+  {
+    "name": "Manipal (BPT)",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 0,
+    "cutoff_description": "Good for abroad opportunities",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B4. Physiotherapy / Occupational Therapy"
+    ]
+  },
+  {
+    "name": "University of Sydney (MPT)",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 0,
+    "cutoff_description": "Australia. Strong PR pathway",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B4. Physiotherapy / Occupational Therapy"
+    ]
+  },
+  {
+    "name": "University of Toronto (PT)",
+    "tier": 1,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 0,
+    "cutoff_description": "Canada. CAPR exam route",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "B4. Physiotherapy / Occupational Therapy"
+    ]
+  },
+  {
+    "name": "IIM Ahmedabad",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 1300000,
+    "cutoff_description": "CAT 99.5%ile",
+    "placement_median": "30-35 LPA",
+    "type": "private",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "IIM Bangalore",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 1300000,
+    "cutoff_description": "CAT 99.3%ile",
+    "placement_median": "28-32 LPA",
+    "type": "private",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "IIM Calcutta",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 1300000,
+    "cutoff_description": "CAT 99%ile",
+    "placement_median": "25-30 LPA",
+    "type": "private",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "IIM Lucknow",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 1200000,
+    "cutoff_description": "CAT 98%ile",
+    "placement_median": "22-26 LPA",
+    "type": "private",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "IIM Indore",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 1200000,
+    "cutoff_description": "CAT 98%ile",
+    "placement_median": "20-25 LPA",
+    "type": "private",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "IIM Kozhikode",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 1100000,
+    "cutoff_description": "CAT 97%ile",
+    "placement_median": "18-22 LPA",
+    "type": "private",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "FMS Delhi",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 20000,
+    "cutoff_description": "CAT 99%ile",
+    "placement_median": "22-28 LPA",
+    "type": "private",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "XLRI Jamshedpur (HR/BM)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 1300000,
+    "cutoff_description": "XAT 98%ile",
+    "placement_median": "22-28 LPA",
+    "type": "private",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "MDI Gurgaon",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 1200000,
+    "cutoff_description": "CAT 97%ile",
+    "placement_median": "20-24 LPA",
+    "type": "private",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "SPJIMR Mumbai",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 1100000,
+    "cutoff_description": "CAT 97%ile",
+    "placement_median": "20-24 LPA",
+    "type": "private",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "IIFT Delhi (International Trade)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 900000,
+    "cutoff_description": "IIFT exam",
+    "placement_median": "18-22 LPA",
+    "type": "private",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "NITIE Mumbai (Industrial Engg)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 800000,
+    "cutoff_description": "CAT 97%ile",
+    "placement_median": "18-22 LPA",
+    "type": "private",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "IMT Ghaziabad",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 1000000,
+    "cutoff_description": "CAT 93%ile",
+    "placement_median": "14-18 LPA",
+    "type": "private",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "NMIMS Mumbai",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 1100000,
+    "cutoff_description": "NMAT",
+    "placement_median": "14-18 LPA",
+    "type": "private",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "SIBM Pune",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 1000000,
+    "cutoff_description": "SNAP",
+    "placement_median": "12-16 LPA",
+    "type": "private",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "Jamnalal Bajaj Mumbai",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 600000,
+    "cutoff_description": "MH-CET",
+    "placement_median": "14-18 LPA",
+    "type": "private",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "Shri Ram College of Commerce (DU)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 30000,
+    "cutoff_description": "CUET",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "Jesus & Mary (BCom Hons)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 25000,
+    "cutoff_description": "CUET",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "Christ University BBA",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 180000,
+    "cutoff_description": "Own",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "Symbiosis BBA",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 220000,
+    "cutoff_description": "SET",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "NMIMS BBA",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 250000,
+    "cutoff_description": "NPAT",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "IPU Delhi BBA",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 60000,
+    "cutoff_description": "IPU CET",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "Harvard Business School",
+    "tier": 1,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "Wharton (UPenn)",
+    "tier": 1,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "Stanford GSB",
+    "tier": 1,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "Kellogg (Northwestern)",
+    "tier": 1,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "Booth (Chicago)",
+    "tier": 1,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "Columbia Business School",
+    "tier": 1,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "INSEAD",
+    "tier": 1,
+    "city": "Various",
+    "state": "France/Singapore",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "London Business School",
+    "tier": 1,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "HEC Paris",
+    "tier": 1,
+    "city": "Various",
+    "state": "France",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "IESE Barcelona",
+    "tier": 1,
+    "city": "Various",
+    "state": "Spain",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "IE Business School",
+    "tier": 1,
+    "city": "Various",
+    "state": "Spain",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "IMD Lausanne",
+    "tier": 1,
+    "city": "Various",
+    "state": "Switzerland",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "NUS Business School",
+    "tier": 1,
+    "city": "Various",
+    "state": "Singapore",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "Nanyang Business School",
+    "tier": 1,
+    "city": "Various",
+    "state": "Singapore",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "Melbourne Business School",
+    "tier": 1,
+    "city": "Various",
+    "state": "Australia",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "Rotman School Toronto",
+    "tier": 1,
+    "city": "Various",
+    "state": "Canada",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "University of Cologne",
+    "tier": 2,
+    "city": "Various",
+    "state": "Germany",
+    "fees_per_year": 100000,
+    "cutoff_description": "MSc Management. Near free",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "WHU Otto Beisheim",
+    "tier": 2,
+    "city": "Various",
+    "state": "Germany",
+    "fees_per_year": 800000,
+    "cutoff_description": "Germany's best private business school",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "Frankfurt School of Finance",
+    "tier": 2,
+    "city": "Various",
+    "state": "Germany",
+    "fees_per_year": 1200000,
+    "cutoff_description": "Strong fintech",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "RSM Erasmus Rotterdam",
+    "tier": 2,
+    "city": "Various",
+    "state": "Netherlands",
+    "fees_per_year": 1000000,
+    "cutoff_description": "Strong for Europe placements",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "Copenhagen Business School",
+    "tier": 2,
+    "city": "Various",
+    "state": "Denmark",
+    "fees_per_year": 200000,
+    "cutoff_description": "Strategic management focus",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "University of Galway",
+    "tier": 2,
+    "city": "Various",
+    "state": "Ireland",
+    "fees_per_year": 1500000,
+    "cutoff_description": "IDA Ireland tie-ins",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "Dublin City University",
+    "tier": 2,
+    "city": "Various",
+    "state": "Ireland",
+    "fees_per_year": 1500000,
+    "cutoff_description": "EMEA HQ of tech companies",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "Griffith College Dublin",
+    "tier": 2,
+    "city": "Various",
+    "state": "Ireland",
+    "fees_per_year": 1200000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C1. MBA / BBA"
+    ]
+  },
+  {
+    "name": "ICAI (CA)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 15000000000,
+    "cutoff_description": "3 levels. Best ROI for finance in India. Big 4 direct",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C2. Chartered Accountancy / Finance"
+    ]
+  },
+  {
+    "name": "CFA Institute",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA (global)",
+    "fees_per_year": 30000000000,
+    "cutoff_description": "Level 1-3. Best for investment banking/equity research",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C2. Chartered Accountancy / Finance"
+    ]
+  },
+  {
+    "name": "ACCA",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 25000000000,
+    "cutoff_description": "UK recognition. Good for Gulf + UK careers",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C2. Chartered Accountancy / Finance"
+    ]
+  },
+  {
+    "name": "CPA (AICPA)",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 35000000000,
+    "cutoff_description": "US accounting. Required for US finance jobs",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C2. Chartered Accountancy / Finance"
+    ]
+  },
+  {
+    "name": "CIMA",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 20000000000,
+    "cutoff_description": "Management accounting",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C2. Chartered Accountancy / Finance"
+    ]
+  },
+  {
+    "name": "FRM (GARP)",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 15000000000,
+    "cutoff_description": "Financial risk management",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C2. Chartered Accountancy / Finance"
+    ]
+  },
+  {
+    "name": "CFP",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 8000000000,
+    "cutoff_description": "Financial planning. Growing in India",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "C2. Chartered Accountancy / Finance"
+    ]
+  },
+  {
+    "name": "National Law School Bangalore (NLSIU)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 250000,
+    "cutoff_description": "CLAT: Top 50",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "NALSAR Hyderabad",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 220000,
+    "cutoff_description": "CLAT: Top 100",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "NUJS Kolkata",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 200000,
+    "cutoff_description": "CLAT: Top 150",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "NLU Delhi",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 250000,
+    "cutoff_description": "AILET: Top 80",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "NLIU Bhopal",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 180000,
+    "cutoff_description": "CLAT: Top 200",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "GNLU Gandhinagar",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 150000,
+    "cutoff_description": "CLAT: Top 250",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "Rajiv Gandhi NLU Patiala",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 120000,
+    "cutoff_description": "CLAT",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "Hidayatullah NLU Raipur",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 100000,
+    "cutoff_description": "CLAT",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "Tamil Nadu NLU",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 90000,
+    "cutoff_description": "CLAT + state",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "Faculty of Law DU",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 15000,
+    "cutoff_description": "DUET",
+    "placement_median": "Variable",
+    "type": "government",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "Symbiosis Law School Pune",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 350000,
+    "cutoff_description": "SLAT",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "Christ Law School Bangalore",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 200000,
+    "cutoff_description": "Own",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "Amity Law School",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 250000,
+    "cutoff_description": "Own",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "Oxford (BCL/MJur)",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 3500000,
+    "cutoff_description": "Rhodes Scholarship chance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "Cambridge (LLM)",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 3500000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "LSE (LLM)",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 3000000,
+    "cutoff_description": "Best for international law",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "King's College London",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 2800000,
+    "cutoff_description": "Strong for human rights law",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "University of Melbourne (JD)",
+    "tier": 2,
+    "city": "Various",
+    "state": "Australia",
+    "fees_per_year": 2500000,
+    "cutoff_description": "PR pathway",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "University of Sydney (LLB)",
+    "tier": 2,
+    "city": "Various",
+    "state": "Australia",
+    "fees_per_year": 2500000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "Osgoode Hall York",
+    "tier": 2,
+    "city": "Various",
+    "state": "Canada",
+    "fees_per_year": 1800000,
+    "cutoff_description": "Canadian bar pathway",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "University of Toronto Law",
+    "tier": 2,
+    "city": "Various",
+    "state": "Canada",
+    "fees_per_year": 2200000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "NUS Faculty of Law",
+    "tier": 2,
+    "city": "Various",
+    "state": "Singapore",
+    "fees_per_year": 1500000,
+    "cutoff_description": "Best in Asia. ASEAN legal hub",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "Leiden University (International Law)",
+    "tier": 2,
+    "city": "Various",
+    "state": "Netherlands",
+    "fees_per_year": 800000,
+    "cutoff_description": "Near ICJ. Best for intl law",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "Humboldt University Berlin",
+    "tier": 2,
+    "city": "Various",
+    "state": "Germany",
+    "fees_per_year": 80000,
+    "cutoff_description": "LLM. Near free",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "D1. LLB / BA LLB (Integrated 5-year)"
+    ]
+  },
+  {
+    "name": "IIT Kharagpur (B.Arch)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 200000,
+    "cutoff_description": "JEE Adv + NATA",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "architect_urban_planner",
+      "graphic_designer",
+      "interior_designer",
+      "animator"
+    ]
+  },
+  {
+    "name": "IIT Roorkee (B.Arch)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 200000,
+    "cutoff_description": "JEE Adv + NATA",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "architect_urban_planner",
+      "graphic_designer",
+      "interior_designer",
+      "animator"
+    ]
+  },
+  {
+    "name": "SPA Delhi (School of Planning and Architecture)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 25000,
+    "cutoff_description": "NATA + JEE Paper 2",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "architect_urban_planner",
+      "graphic_designer",
+      "interior_designer",
+      "animator"
+    ]
+  },
+  {
+    "name": "SPA Bhopal",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 30000,
+    "cutoff_description": "NATA + JEE",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "architect_urban_planner",
+      "graphic_designer",
+      "interior_designer",
+      "animator"
+    ]
+  },
+  {
+    "name": "SPA Vijayawada",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 30000,
+    "cutoff_description": "NATA + JEE",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "architect_urban_planner",
+      "graphic_designer",
+      "interior_designer",
+      "animator"
+    ]
+  },
+  {
+    "name": "CEPT Ahmedabad",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 250000,
+    "cutoff_description": "NATA",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "architect_urban_planner",
+      "graphic_designer",
+      "interior_designer",
+      "animator"
+    ]
+  },
+  {
+    "name": "Sir JJ School of Architecture Mumbai",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 50000,
+    "cutoff_description": "NATA + MH state",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "architect_urban_planner",
+      "graphic_designer",
+      "interior_designer",
+      "animator"
+    ]
+  },
+  {
+    "name": "TVBSAN Mumbai",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 80000,
+    "cutoff_description": "NATA",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "architect_urban_planner",
+      "graphic_designer",
+      "interior_designer",
+      "animator"
+    ]
+  },
+  {
+    "name": "NIT Trichy / Calicut (B.Arch)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 150000,
+    "cutoff_description": "JEE Mains + NATA",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "architect_urban_planner",
+      "graphic_designer",
+      "interior_designer",
+      "animator"
+    ]
+  },
+  {
+    "name": "Manipal Architecture",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 350000,
+    "cutoff_description": "NATA",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "architect_urban_planner",
+      "graphic_designer",
+      "interior_designer",
+      "animator"
+    ]
+  },
+  {
+    "name": "Chandigarh College of Architecture",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 60000,
+    "cutoff_description": "NATA + state",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "architect_urban_planner",
+      "graphic_designer",
+      "interior_designer",
+      "animator"
+    ]
+  },
+  {
+    "name": "UCL Bartlett",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 2800000,
+    "cutoff_description": "#1 globally. Experimental",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "architect_urban_planner",
+      "graphic_designer",
+      "interior_designer",
+      "animator"
+    ]
+  },
+  {
+    "name": "Architectural Association London",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 3500000,
+    "cutoff_description": "Avant-garde. Best for theory",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "architect_urban_planner",
+      "graphic_designer",
+      "interior_designer",
+      "animator"
+    ]
+  },
+  {
+    "name": "ETH Zurich (Arch)",
+    "tier": 2,
+    "city": "Various",
+    "state": "Switzerland",
+    "fees_per_year": 80000,
+    "cutoff_description": "Near free. Top global",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "architect_urban_planner",
+      "graphic_designer",
+      "interior_designer",
+      "animator"
+    ]
+  },
+  {
+    "name": "TU Delft (Arch)",
+    "tier": 2,
+    "city": "Various",
+    "state": "Netherlands",
+    "fees_per_year": 500000,
+    "cutoff_description": "Sustainability focus",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "architect_urban_planner",
+      "graphic_designer",
+      "interior_designer",
+      "animator"
+    ]
+  },
+  {
+    "name": "TU Berlin (Arch)",
+    "tier": 2,
+    "city": "Various",
+    "state": "Germany",
+    "fees_per_year": 80000,
+    "cutoff_description": "Near free",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "architect_urban_planner",
+      "graphic_designer",
+      "interior_designer",
+      "animator"
+    ]
+  },
+  {
+    "name": "KTH Stockholm (Arch)",
+    "tier": 2,
+    "city": "Various",
+    "state": "Sweden",
+    "fees_per_year": 80000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "architect_urban_planner",
+      "graphic_designer",
+      "interior_designer",
+      "animator"
+    ]
+  },
+  {
+    "name": "RMIT Melbourne",
+    "tier": 2,
+    "city": "Various",
+    "state": "Australia",
+    "fees_per_year": 2000000,
+    "cutoff_description": "Strong urban design",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "architect_urban_planner",
+      "graphic_designer",
+      "interior_designer",
+      "animator"
+    ]
+  },
+  {
+    "name": "University of Melbourne",
+    "tier": 2,
+    "city": "Various",
+    "state": "Australia",
+    "fees_per_year": 2200000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "architect_urban_planner",
+      "graphic_designer",
+      "interior_designer",
+      "animator"
+    ]
+  },
+  {
+    "name": "Harvard GSD",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 5000000,
+    "cutoff_description": "MArch. Top globally",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "architect_urban_planner",
+      "graphic_designer",
+      "interior_designer",
+      "animator"
+    ]
+  },
+  {
+    "name": "Columbia GSAPP",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 5000000,
+    "cutoff_description": "NYC. Strong theory",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "architect_urban_planner",
+      "graphic_designer",
+      "interior_designer",
+      "animator"
+    ]
+  },
+  {
+    "name": "Pratt Institute NYC",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 4000000,
+    "cutoff_description": "Strong for studios",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "architect_urban_planner",
+      "graphic_designer",
+      "interior_designer",
+      "animator"
+    ]
+  },
+  {
+    "name": "NID Ahmedabad (B.Des)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 350000,
+    "cutoff_description": "NID DAT",
+    "placement_median": "Variable",
+    "type": "government",
+    "careers": [
+      "E2. Product Design / Industrial Design / UX Design"
+    ]
+  },
+  {
+    "name": "NID campuses (8 total)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 300000,
+    "cutoff_description": "NID DAT",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "E2. Product Design / Industrial Design / UX Design"
+    ]
+  },
+  {
+    "name": "NIFT Delhi (B.Des)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 250000,
+    "cutoff_description": "NIFT Entrance",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "E2. Product Design / Industrial Design / UX Design"
+    ]
+  },
+  {
+    "name": "MIT Institute of Design Pune",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 280000,
+    "cutoff_description": "Own",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "E2. Product Design / Industrial Design / UX Design"
+    ]
+  },
+  {
+    "name": "Srishti Manipal Bangalore",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 320000,
+    "cutoff_description": "Own",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "E2. Product Design / Industrial Design / UX Design"
+    ]
+  },
+  {
+    "name": "Symbiosis Institute of Design",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 250000,
+    "cutoff_description": "SET",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "E2. Product Design / Industrial Design / UX Design"
+    ]
+  },
+  {
+    "name": "Pearl Academy",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 350000,
+    "cutoff_description": "Own",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "E2. Product Design / Industrial Design / UX Design"
+    ]
+  },
+  {
+    "name": "Unitedworld Ahmedabad",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 250000,
+    "cutoff_description": "Own",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "E2. Product Design / Industrial Design / UX Design"
+    ]
+  },
+  {
+    "name": "Royal College of Art",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 3000000,
+    "cutoff_description": "#1 globally for design (QS)",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "E2. Product Design / Industrial Design / UX Design"
+    ]
+  },
+  {
+    "name": "Central Saint Martins",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 2800000,
+    "cutoff_description": "Fashion, product, graphics",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "E2. Product Design / Industrial Design / UX Design"
+    ]
+  },
+  {
+    "name": "Parsons Paris",
+    "tier": 2,
+    "city": "Various",
+    "state": "France",
+    "fees_per_year": 2500000,
+    "cutoff_description": "Fashion design hub",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "E2. Product Design / Industrial Design / UX Design"
+    ]
+  },
+  {
+    "name": "Design Academy Eindhoven",
+    "tier": 2,
+    "city": "Various",
+    "state": "Netherlands",
+    "fees_per_year": 1200000,
+    "cutoff_description": "Conceptual design",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "E2. Product Design / Industrial Design / UX Design"
+    ]
+  },
+  {
+    "name": "Domus Academy Milan",
+    "tier": 2,
+    "city": "Various",
+    "state": "Italy",
+    "fees_per_year": 2000000,
+    "cutoff_description": "Luxury product design",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "E2. Product Design / Industrial Design / UX Design"
+    ]
+  },
+  {
+    "name": "Istituto Marangoni",
+    "tier": 2,
+    "city": "Various",
+    "state": "Italy/London",
+    "fees_per_year": 1800000,
+    "cutoff_description": "Fashion design",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "E2. Product Design / Industrial Design / UX Design"
+    ]
+  },
+  {
+    "name": "ArtCenter College of Design",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 4000000,
+    "cutoff_description": "Industrial design",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "E2. Product Design / Industrial Design / UX Design"
+    ]
+  },
+  {
+    "name": "RISD",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 4500000,
+    "cutoff_description": "Top art + design in US",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "E2. Product Design / Industrial Design / UX Design"
+    ]
+  },
+  {
+    "name": "Pratt Institute",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 4000000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "E2. Product Design / Industrial Design / UX Design"
+    ]
+  },
+  {
+    "name": "SCAD",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 3800000,
+    "cutoff_description": "Strong film + UX",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "E2. Product Design / Industrial Design / UX Design"
+    ]
+  },
+  {
+    "name": "Emily Carr University",
+    "tier": 2,
+    "city": "Various",
+    "state": "Canada",
+    "fees_per_year": 1200000,
+    "cutoff_description": "PR pathway",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "E2. Product Design / Industrial Design / UX Design"
+    ]
+  },
+  {
+    "name": "RMIT Design",
+    "tier": 2,
+    "city": "Various",
+    "state": "Australia",
+    "fees_per_year": 2000000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "E2. Product Design / Industrial Design / UX Design"
+    ]
+  },
+  {
+    "name": "Film and Television Institute of India (FTII) Pune",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 200000,
+    "cutoff_description": "India's best. Govt. Difficult to get in",
+    "placement_median": "Variable",
+    "type": "government",
+    "careers": [
+      "E3. Film, Media & Animation"
+    ]
+  },
+  {
+    "name": "Satyajit Ray Film & Television Institute Kolkata",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 150000,
+    "cutoff_description": "Eastern India's FTII",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "E3. Film, Media & Animation"
+    ]
+  },
+  {
+    "name": "AJ Kidwai Mass Communication Delhi",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 20000,
+    "cutoff_description": "DU affiliated. Near free",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "E3. Film, Media & Animation"
+    ]
+  },
+  {
+    "name": "Manipal Institute of Communication",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 300000,
+    "cutoff_description": "Strong for journalism",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "E3. Film, Media & Animation"
+    ]
+  },
+  {
+    "name": "Whistling Woods Mumbai",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 400000,
+    "cutoff_description": "Bollywood connections",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "E3. Film, Media & Animation"
+    ]
+  },
+  {
+    "name": "Arena Animation (franchise)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 80000,
+    "cutoff_description": "Certificate. Fast track to industry",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "E3. Film, Media & Animation"
+    ]
+  },
+  {
+    "name": "Maac Animation",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 80000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "E3. Film, Media & Animation"
+    ]
+  },
+  {
+    "name": "Zee Institute of Media Arts",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 200000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "E3. Film, Media & Animation"
+    ]
+  },
+  {
+    "name": "NFTS (National Film and Television School)",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 2000000,
+    "cutoff_description": "Best in UK. Bafta winners",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "E3. Film, Media & Animation"
+    ]
+  },
+  {
+    "name": "London Film School",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 2200000,
+    "cutoff_description": "2yr MFA",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "E3. Film, Media & Animation"
+    ]
+  },
+  {
+    "name": "Vancouver Film School",
+    "tier": 2,
+    "city": "Various",
+    "state": "Canada",
+    "fees_per_year": 1800000,
+    "cutoff_description": "1yr intensive. PR pathway",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "E3. Film, Media & Animation"
+    ]
+  },
+  {
+    "name": "Toronto Film School",
+    "tier": 2,
+    "city": "Various",
+    "state": "Canada",
+    "fees_per_year": 1500000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "E3. Film, Media & Animation"
+    ]
+  },
+  {
+    "name": "USC School of Cinematic Arts",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 5000000,
+    "cutoff_description": "Hollywood gateway. Best in US",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "E3. Film, Media & Animation"
+    ]
+  },
+  {
+    "name": "NYU Tisch (Film/TV)",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 4500000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "E3. Film, Media & Animation"
+    ]
+  },
+  {
+    "name": "Chapman University",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 4000000,
+    "cutoff_description": "Strong alumni in industry",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "E3. Film, Media & Animation"
+    ]
+  },
+  {
+    "name": "AFTRS Sydney",
+    "tier": 2,
+    "city": "Various",
+    "state": "Australia",
+    "fees_per_year": 1800000,
+    "cutoff_description": "Govt-funded. Strong",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "E3. Film, Media & Animation"
+    ]
+  },
+  {
+    "name": "AFDA Johannesburg",
+    "tier": 2,
+    "city": "Various",
+    "state": "South Africa",
+    "fees_per_year": 800000,
+    "cutoff_description": "Very affordable. High production value",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "E3. Film, Media & Animation"
+    ]
+  },
+  {
+    "name": "IISc Bangalore (BS Research)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 30000,
+    "cutoff_description": "KVPY/JEE",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "F1. Pure Sciences (Physics, Chemistry, Math, Biology)"
+    ]
+  },
+  {
+    "name": "IISER Pune, Mohali, Kolkata, Bhopal, Trivandrum, Tirupati, Berhampur",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 13000,
+    "cutoff_description": "KVPY/JEE/IISER Aptitude",
+    "placement_median": "Variable",
+    "type": "government",
+    "careers": [
+      "F1. Pure Sciences (Physics, Chemistry, Math, Biology)"
+    ]
+  },
+  {
+    "name": "NISER Bhubaneswar",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 15000,
+    "cutoff_description": "NEST",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "F1. Pure Sciences (Physics, Chemistry, Math, Biology)"
+    ]
+  },
+  {
+    "name": "CBS Mumbai (UM-DAE)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 10000,
+    "cutoff_description": "KVPY/JEE",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "F1. Pure Sciences (Physics, Chemistry, Math, Biology)"
+    ]
+  },
+  {
+    "name": "CMI Chennai",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 15000,
+    "cutoff_description": "CMI Entrance",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "F1. Pure Sciences (Physics, Chemistry, Math, Biology)"
+    ]
+  },
+  {
+    "name": "ISI Kolkata (B.Stat/B.Math)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 25000,
+    "cutoff_description": "ISI Entrance",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "F1. Pure Sciences (Physics, Chemistry, Math, Biology)"
+    ]
+  },
+  {
+    "name": "JNU (BSc programs)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 3000,
+    "cutoff_description": "CUET",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "F1. Pure Sciences (Physics, Chemistry, Math, Biology)"
+    ]
+  },
+  {
+    "name": "ETH Zurich",
+    "tier": 2,
+    "city": "Various",
+    "state": "Switzerland",
+    "fees_per_year": 80000,
+    "cutoff_description": "Near free. Nobel Prize factory",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "F1. Pure Sciences (Physics, Chemistry, Math, Biology)"
+    ]
+  },
+  {
+    "name": "University of Cambridge",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 3000000,
+    "cutoff_description": "Physics/Math/NatSci",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "F1. Pure Sciences (Physics, Chemistry, Math, Biology)"
+    ]
+  },
+  {
+    "name": "Max Planck Institutes (PhD)",
+    "tier": 2,
+    "city": "Various",
+    "state": "Germany",
+    "fees_per_year": 2600000000,
+    "cutoff_description": "Apply directly after MSc",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "F1. Pure Sciences (Physics, Chemistry, Math, Biology)"
+    ]
+  },
+  {
+    "name": "CERN (Internship/fellowship)",
+    "tier": 2,
+    "city": "Various",
+    "state": "Switzerland",
+    "fees_per_year": 0,
+    "cutoff_description": "Apply after BSc/MSc physics",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "F1. Pure Sciences (Physics, Chemistry, Math, Biology)"
+    ]
+  },
+  {
+    "name": "Perimeter Institute",
+    "tier": 2,
+    "city": "Various",
+    "state": "Canada",
+    "fees_per_year": 0,
+    "cutoff_description": "Theoretical physics only",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "F1. Pure Sciences (Physics, Chemistry, Math, Biology)"
+    ]
+  },
+  {
+    "name": "University of Melbourne",
+    "tier": 2,
+    "city": "Various",
+    "state": "Australia",
+    "fees_per_year": 2000000,
+    "cutoff_description": "Strong research",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "F1. Pure Sciences (Physics, Chemistry, Math, Biology)"
+    ]
+  },
+  {
+    "name": "Caltech",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 4500000,
+    "cutoff_description": "Small. Research-intensive. Aid available",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "F1. Pure Sciences (Physics, Chemistry, Math, Biology)"
+    ]
+  },
+  {
+    "name": "Princeton",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 4500000,
+    "cutoff_description": "Strong for math + physics. Aid available",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "F1. Pure Sciences (Physics, Chemistry, Math, Biology)"
+    ]
+  },
+  {
+    "name": "IIT Bombay (BTech Biotech)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 200000,
+    "cutoff_description": "JEE Adv",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "F2. Biotechnology / Life Sciences"
+    ]
+  },
+  {
+    "name": "IIT Delhi (BTech Biochem Engg)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 200000,
+    "cutoff_description": "JEE Adv",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "F2. Biotechnology / Life Sciences"
+    ]
+  },
+  {
+    "name": "IIT Kharagpur (BTech Biotech)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 200000,
+    "cutoff_description": "JEE Adv",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "F2. Biotechnology / Life Sciences"
+    ]
+  },
+  {
+    "name": "JNU (BSc Biotech)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 3000,
+    "cutoff_description": "CUET",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "F2. Biotechnology / Life Sciences"
+    ]
+  },
+  {
+    "name": "Amity (BTech Biotech)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 250000,
+    "cutoff_description": "Own",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "F2. Biotechnology / Life Sciences"
+    ]
+  },
+  {
+    "name": "Manipal (BTech Biotech)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 300000,
+    "cutoff_description": "MET",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "F2. Biotechnology / Life Sciences"
+    ]
+  },
+  {
+    "name": "VIT (BTech Biotech)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 250000,
+    "cutoff_description": "VITEEE",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "F2. Biotechnology / Life Sciences"
+    ]
+  },
+  {
+    "name": "NCBS Bangalore (Research BS)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 0,
+    "cutoff_description": "Competitive",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "F2. Biotechnology / Life Sciences"
+    ]
+  },
+  {
+    "name": "Wageningen University",
+    "tier": 2,
+    "city": "Various",
+    "state": "Netherlands",
+    "fees_per_year": 400000,
+    "cutoff_description": "#1 for life sciences globally",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "F2. Biotechnology / Life Sciences"
+    ]
+  },
+  {
+    "name": "University of Copenhagen",
+    "tier": 2,
+    "city": "Various",
+    "state": "Denmark",
+    "fees_per_year": 80000,
+    "cutoff_description": "Pharma research hub",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "F2. Biotechnology / Life Sciences"
+    ]
+  },
+  {
+    "name": "University of Heidelberg",
+    "tier": 2,
+    "city": "Various",
+    "state": "Germany",
+    "fees_per_year": 80000,
+    "cutoff_description": "EMBL proximity. Best in Europe",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "F2. Biotechnology / Life Sciences"
+    ]
+  },
+  {
+    "name": "TU Munich (Life Sciences)",
+    "tier": 2,
+    "city": "Various",
+    "state": "Germany",
+    "fees_per_year": 80000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "F2. Biotechnology / Life Sciences"
+    ]
+  },
+  {
+    "name": "Imperial College London (Biotech)",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 2800000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "F2. Biotechnology / Life Sciences"
+    ]
+  },
+  {
+    "name": "University of Edinburgh",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 2500000,
+    "cutoff_description": "Dolly the sheep birthplace",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "F2. Biotechnology / Life Sciences"
+    ]
+  },
+  {
+    "name": "University of British Columbia",
+    "tier": 2,
+    "city": "Various",
+    "state": "Canada",
+    "fees_per_year": 1800000,
+    "cutoff_description": "Strong biotech valley",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "F2. Biotechnology / Life Sciences"
+    ]
+  },
+  {
+    "name": "UNSW Sydney",
+    "tier": 2,
+    "city": "Various",
+    "state": "Australia",
+    "fees_per_year": 2000000,
+    "cutoff_description": "Strong research + PR pathway",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "F2. Biotechnology / Life Sciences"
+    ]
+  },
+  {
+    "name": "Johns Hopkins (MS in Biotech)",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 3500000,
+    "cutoff_description": "Best in US. Pharma recruiting",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "F2. Biotechnology / Life Sciences"
+    ]
+  },
+  {
+    "name": "MIT (Bioeng)",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 4500000,
+    "cutoff_description": "Biotech VC ecosystem",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "F2. Biotechnology / Life Sciences"
+    ]
+  },
+  {
+    "name": "Delhi University (BA Psych)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 20000,
+    "cutoff_description": "CUET. Strong faculty",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "G1. Psychology"
+    ]
+  },
+  {
+    "name": "TISS Mumbai (MA Applied Psych)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 30000,
+    "cutoff_description": "Govt. Best for clinical + social work",
+    "placement_median": "Variable",
+    "type": "government",
+    "careers": [
+      "G1. Psychology"
+    ]
+  },
+  {
+    "name": "NIMHANS Bangalore (MPhill/PhD)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 15000,
+    "cutoff_description": "For clinical psychologists. Best in India",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "G1. Psychology"
+    ]
+  },
+  {
+    "name": "Christ University (BA/BSc Psych)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 120000,
+    "cutoff_description": "Strong for counseling",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "G1. Psychology"
+    ]
+  },
+  {
+    "name": "Amity (BSc Psych)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 150000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "G1. Psychology"
+    ]
+  },
+  {
+    "name": "Fergusson College Pune",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 20000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "G1. Psychology"
+    ]
+  },
+  {
+    "name": "University of Edinburgh",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 2500000,
+    "cutoff_description": "Strong experimental psych",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G1. Psychology"
+    ]
+  },
+  {
+    "name": "UCL (Psychology)",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 2800000,
+    "cutoff_description": "Clinical + neuropsych",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G1. Psychology"
+    ]
+  },
+  {
+    "name": "KU Leuven",
+    "tier": 2,
+    "city": "Various",
+    "state": "Belgium",
+    "fees_per_year": 300000,
+    "cutoff_description": "Near free. Strong cognitive",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G1. Psychology"
+    ]
+  },
+  {
+    "name": "University of Amsterdam",
+    "tier": 2,
+    "city": "Various",
+    "state": "Netherlands",
+    "fees_per_year": 500000,
+    "cutoff_description": "Experimental methods",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G1. Psychology"
+    ]
+  },
+  {
+    "name": "University of Queensland",
+    "tier": 2,
+    "city": "Various",
+    "state": "Australia",
+    "fees_per_year": 1800000,
+    "cutoff_description": "Strong clinical",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G1. Psychology"
+    ]
+  },
+  {
+    "name": "McGill University",
+    "tier": 2,
+    "city": "Various",
+    "state": "Canada",
+    "fees_per_year": 1500000,
+    "cutoff_description": "Strong research",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G1. Psychology"
+    ]
+  },
+  {
+    "name": "University of Toronto",
+    "tier": 2,
+    "city": "Various",
+    "state": "Canada",
+    "fees_per_year": 1800000,
+    "cutoff_description": "Clinical training",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G1. Psychology"
+    ]
+  },
+  {
+    "name": "Delhi School of Economics (MA Eco)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 20000,
+    "cutoff_description": "Hardest to get into. Best for academia",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "G2. Economics / Development Economics"
+    ]
+  },
+  {
+    "name": "JNU (MA Eco)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 3000,
+    "cutoff_description": "DSE competitor. Leftist tradition",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "G2. Economics / Development Economics"
+    ]
+  },
+  {
+    "name": "SRCC Delhi (BCom/BA Eco)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 25000,
+    "cutoff_description": "CUET. Best undergraduate",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "G2. Economics / Development Economics"
+    ]
+  },
+  {
+    "name": "Presidency University Kolkata",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 15000,
+    "cutoff_description": "Strong economics tradition",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "G2. Economics / Development Economics"
+    ]
+  },
+  {
+    "name": "BITS (Economics dual degree)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 550000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "G2. Economics / Development Economics"
+    ]
+  },
+  {
+    "name": "ISI Delhi (MS Quantitative Eco)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 25000,
+    "cutoff_description": "Research focused",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "G2. Economics / Development Economics"
+    ]
+  },
+  {
+    "name": "Gokhale Institute of Politics and Economics",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 50000,
+    "cutoff_description": "Pune. Policy angle",
+    "placement_median": "Variable",
+    "type": "private",
+    "careers": [
+      "G2. Economics / Development Economics"
+    ]
+  },
+  {
+    "name": "LSE (BSc/MSc Economics)",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 3000000,
+    "cutoff_description": "Best for economics globally",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G2. Economics / Development Economics"
+    ]
+  },
+  {
+    "name": "Oxford (PPE)",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 3000000,
+    "cutoff_description": "Rhodes scholarship angle. Policy leaders",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G2. Economics / Development Economics"
+    ]
+  },
+  {
+    "name": "Cambridge (Economics)",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 3000000,
+    "cutoff_description": "Marshall scholarship",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G2. Economics / Development Economics"
+    ]
+  },
+  {
+    "name": "University of Warwick",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 2500000,
+    "cutoff_description": "Strong for econometrics",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G2. Economics / Development Economics"
+    ]
+  },
+  {
+    "name": "Tilburg University",
+    "tier": 2,
+    "city": "Various",
+    "state": "Netherlands",
+    "fees_per_year": 500000,
+    "cutoff_description": "Top economics research",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G2. Economics / Development Economics"
+    ]
+  },
+  {
+    "name": "Stockholm School of Economics",
+    "tier": 2,
+    "city": "Various",
+    "state": "Sweden",
+    "fees_per_year": 400000,
+    "cutoff_description": "Nobel Prize proximity",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G2. Economics / Development Economics"
+    ]
+  },
+  {
+    "name": "Harvard (Economics)",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 4500000,
+    "cutoff_description": "Need-blind aid",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G2. Economics / Development Economics"
+    ]
+  },
+  {
+    "name": "Princeton (Economics)",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 4500000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G2. Economics / Development Economics"
+    ]
+  },
+  {
+    "name": "IIMC Delhi",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 50000,
+    "cutoff_description": "India's best. Govt",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G3. Journalism / Mass Communication"
+    ]
+  },
+  {
+    "name": "ACJ Chennai",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 200000,
+    "cutoff_description": "Asian College of Journalism",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G3. Journalism / Mass Communication"
+    ]
+  },
+  {
+    "name": "Jamia Millia (MCJ)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 30000,
+    "cutoff_description": "Govt",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G3. Journalism / Mass Communication"
+    ]
+  },
+  {
+    "name": "Symbiosis (MA Communication)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 250000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G3. Journalism / Mass Communication"
+    ]
+  },
+  {
+    "name": "Columbia Journalism School",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 4500000,
+    "cutoff_description": "#1 globally. Pulitzer Prize connection",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G3. Journalism / Mass Communication"
+    ]
+  },
+  {
+    "name": "Northwestern Medill",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 4500000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G3. Journalism / Mass Communication"
+    ]
+  },
+  {
+    "name": "City University London",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 2000000,
+    "cutoff_description": "Reuters/BBC journalism",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G3. Journalism / Mass Communication"
+    ]
+  },
+  {
+    "name": "Cardiff University",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 1800000,
+    "cutoff_description": "BBC Wales proximity",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G3. Journalism / Mass Communication"
+    ]
+  },
+  {
+    "name": "University of Melbourne",
+    "tier": 2,
+    "city": "Various",
+    "state": "Australia",
+    "fees_per_year": 1800000,
+    "cutoff_description": "ABC journalism ties",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "G3. Journalism / Mass Communication"
+    ]
+  },
+  {
+    "name": "Vajiram & Ravi",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 120000,
+    "cutoff_description": "Most recommended for GS",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H1. UPSC Civil Services Preparation Pathway"
+    ]
+  },
+  {
+    "name": "Drishti IAS",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 80000,
+    "cutoff_description": "Hindi medium friendly",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H1. UPSC Civil Services Preparation Pathway"
+    ]
+  },
+  {
+    "name": "Vision IAS",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 90000,
+    "cutoff_description": "Strong test series",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H1. UPSC Civil Services Preparation Pathway"
+    ]
+  },
+  {
+    "name": "Chanakya IAS",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 70000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H1. UPSC Civil Services Preparation Pathway"
+    ]
+  },
+  {
+    "name": "PWOnlyIAS",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 40000,
+    "cutoff_description": "Cost-effective",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H1. UPSC Civil Services Preparation Pathway"
+    ]
+  },
+  {
+    "name": "Unacademy UPSC",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 30000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H1. UPSC Civil Services Preparation Pathway"
+    ]
+  },
+  {
+    "name": "BYJU's IAS",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 50000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H1. UPSC Civil Services Preparation Pathway"
+    ]
+  },
+  {
+    "name": "BA/BCom via DU SOL",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 10000,
+    "cutoff_description": "Study + prep simultaneously",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H1. UPSC Civil Services Preparation Pathway"
+    ]
+  },
+  {
+    "name": "National Defence Academy, Pune",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Army/Navy/Air Force Officer",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "IMA Dehradun / OTA Chennai",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Army Officer after graduation",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Air Force Academy Hyderabad",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "IAF Officer",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Multiple private",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "5-day selection. Personality test",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "IHM Mumbai (BHM)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 60000,
+    "cutoff_description": "Govt. Best hotel management",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "IHM Delhi, Chennai, Kolkata",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 60000,
+    "cutoff_description": "Govt. NCHMCT JEE entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Welcomgroup Graduate School (Manipal)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 250000,
+    "cutoff_description": "ITC WelcomHotel tie-up",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Les Roches",
+    "tier": 2,
+    "city": "Various",
+    "state": "Switzerland",
+    "fees_per_year": 3500000,
+    "cutoff_description": "#1 globally. Scholarship available",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Glion Institute",
+    "tier": 2,
+    "city": "Various",
+    "state": "Switzerland",
+    "fees_per_year": 3200000,
+    "cutoff_description": "Strong luxury hotel placements",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "EHL Lausanne",
+    "tier": 2,
+    "city": "Various",
+    "state": "Switzerland",
+    "fees_per_year": 3000000,
+    "cutoff_description": "European Hospitality Leadership",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Ecole Ferrandi",
+    "tier": 2,
+    "city": "Various",
+    "state": "France",
+    "fees_per_year": 1500000,
+    "cutoff_description": "Best culinary school in France",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Le Cordon Bleu",
+    "tier": 2,
+    "city": "Various",
+    "state": "Paris/London/Sydney",
+    "fees_per_year": 20,
+    "cutoff_description": "Culinary. Classic French",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "William Angliss Institute",
+    "tier": 2,
+    "city": "Various",
+    "state": "Australia",
+    "fees_per_year": 1200000,
+    "cutoff_description": "PR pathway. Strong events mgmt",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "SHATEC Singapore",
+    "tier": 2,
+    "city": "Various",
+    "state": "Singapore",
+    "fees_per_year": 1000000,
+    "cutoff_description": "Strong Asia-Pacific placements",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "LNUPE Gwalior (BSc Sports)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 20000,
+    "cutoff_description": "Govt. Best sports science",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "SAI (Sports Authority of India) centers",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 0,
+    "cutoff_description": "For athletes. Residential",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Manipal (BSc Physical Education)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 150000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Jain University (Sports Management)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 250000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "TISS Mumbai (MA Sports)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 30000,
+    "cutoff_description": "Policy + management",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "University of Bath (Sport Management)",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 2200000,
+    "cutoff_description": "#1 in UK for sport",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Loughborough University",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 2000000,
+    "cutoff_description": "Olympic performance focus",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Deakin (Sports Management)",
+    "tier": 2,
+    "city": "Various",
+    "state": "Australia",
+    "fees_per_year": 1800000,
+    "cutoff_description": "PR pathway",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Canadian Memorial Chiropractic College",
+    "tier": 2,
+    "city": "Various",
+    "state": "Canada",
+    "fees_per_year": 2000000,
+    "cutoff_description": "Sports physio angle",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "For Esports:",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "University of Nottingham (Esports)",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK",
+    "fees_per_year": 2000000,
+    "cutoff_description": "BSc in Esports",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Full Sail University",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 2500000,
+    "cutoff_description": "Game design + esports",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "IIDE (Esports Marketing)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 150000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "BGM / NODWIN Gaming Academy",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 30000,
+    "cutoff_description": "Certificate only",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "IARI New Delhi (BSc Agri)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 40000,
+    "cutoff_description": "Indian Agricultural Research Institute. Govt",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "ICAR universities (45 state agri univs)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 20000,
+    "cutoff_description": "Entrance: ICAR AIEEA",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "BHU (Faculty of Agriculture)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 30000,
+    "cutoff_description": "Strong for agri research",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Punjab Agricultural University",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 50000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Wageningen University (Agri)",
+    "tier": 2,
+    "city": "Various",
+    "state": "Netherlands",
+    "fees_per_year": 400000,
+    "cutoff_description": "#1 globally for food/agri",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "University of Queensland (Agri)",
+    "tier": 2,
+    "city": "Various",
+    "state": "Australia",
+    "fees_per_year": 1800000,
+    "cutoff_description": "Strong for sustainable agriculture",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "University of Copenhagen (Food Science)",
+    "tier": 2,
+    "city": "Various",
+    "state": "Denmark",
+    "fees_per_year": 80000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "AUT Auckland",
+    "tier": 2,
+    "city": "Various",
+    "state": "New Zealand",
+    "fees_per_year": 1500000,
+    "cutoff_description": "PR pathway. Agri + tech",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "University of Adelaide",
+    "tier": 2,
+    "city": "Various",
+    "state": "Australia",
+    "fees_per_year": 1800000,
+    "cutoff_description": "Wine + agri. PR pathway",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Indira Gandhi Rashtriya Uran Akademi (IGRUA)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 300000000000,
+    "cutoff_description": "Govt. Best CPL school in India",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Bombay Flying Club",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 2800000,
+    "cutoff_description": "Old, respected",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Ahmedabad Aviation & Aeronautics",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 2500000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Florida Flyers",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 25,
+    "cutoff_description": "US CPL. FAA license",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Embry-Riddle Aeronautical University",
+    "tier": 2,
+    "city": "Various",
+    "state": "USA",
+    "fees_per_year": 4000000,
+    "cutoff_description": "#1 aviation university globally",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Oxford Aviation Academy",
+    "tier": 2,
+    "city": "Various",
+    "state": "UK/Multiple",
+    "fees_per_year": 3500000,
+    "cutoff_description": "EASA license",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "CAE Melbourne",
+    "tier": 2,
+    "city": "Various",
+    "state": "Australia",
+    "fees_per_year": 3000000,
+    "cutoff_description": "CASA license. PR pathway possible",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Massey University",
+    "tier": 2,
+    "city": "Various",
+    "state": "New Zealand",
+    "fees_per_year": 2000000,
+    "cutoff_description": "CPL + B.Aviation",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "ENAC Toulouse",
+    "tier": 2,
+    "city": "Various",
+    "state": "France",
+    "fees_per_year": 1500000,
+    "cutoff_description": "Strong for Airbus careers",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Lufthansa Aviation Training",
+    "tier": 2,
+    "city": "Various",
+    "state": "Germany",
+    "fees_per_year": 6000000,
+    "cutoff_description": "Direct airline cadet program",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "IndiGo Cadet Program (6E-ATPL)",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 6000000,
+    "cutoff_description": "Direct airline pathway",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Air India Cadet Program",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 5500000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "India Govt",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 5000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "IT career legitimacy",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "State Govt",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 5000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Electrician, fitter, machinist, COPA",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Govt",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 0,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Skill India",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Google",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 3000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "High employer recognition",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Amazon",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 25000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Cloud. Starting salary 8-12 LPA",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Microsoft",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 15000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Variable",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Cisco",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 20000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Networking",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "CompTIA",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 25000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Cybersecurity",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Govt",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 1000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Teaching govt schools",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Alliance Française",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 8000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Opens Europe job market",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "Goethe Institut",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 8000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Germany + Austria jobs",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  },
+  {
+    "name": "JLPT",
+    "tier": 2,
+    "city": "Various",
+    "state": "India",
+    "fees_per_year": 5000,
+    "cutoff_description": "Merit/Entrance",
+    "placement_median": "Japan tech jobs. Very high demand",
+    "type": "global",
+    "careers": [
+      "H2. Defence (NDA / CDS / AFCAT)"
+    ]
+  }
+]

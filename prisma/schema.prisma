@@ -1,0 +1,71 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+model User {
+  id        String   @id @default(uuid())
+  clerkId   String   @unique
+  email     String   @unique
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  profiles  SavedProfile[]
+}
+
+model SavedProfile {
+  id          String   @id @default(uuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  
+  // Input parameters
+  classLevel  String
+  stream      String
+  marks       Int
+  budget      String
+  timeline    String
+  abroadOpen  String
+  trend       String
+  dreamJob    String
+  deepDream   String?
+
+  // Outputs
+  careerTargetId String?
+  careerTargetName String?
+
+  paths       CareerPath[]
+  createdAt   DateTime @default(now())
+}
+
+model CareerPath {
+  id             String   @id @default(uuid())
+  profileId      String
+  profile        SavedProfile @relation(fields: [profileId], references: [id], onDelete: Cascade)
+  
+  type           String // "safe", "balanced", "aggressive"
+  label          String
+  probability    Int
+  careerTarget   String
+  primaryRoute   String
+  timeline       String
+  salaryEntry    String
+  salaryMid      String
+  rationale      String
+
+  milestones     Milestone[]
+}
+
+model Milestone {
+  id           String   @id @default(uuid())
+  pathId       String
+  path         CareerPath @relation(fields: [pathId], references: [id], onDelete: Cascade)
+  
+  name         String
+  contingency  String?
+  status       String   @default("pending") // "pending", "completed", "failed"
+}
